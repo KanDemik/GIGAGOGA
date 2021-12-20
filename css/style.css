@@ -10,3 +10,9 @@ body {
 .nav {
 
 }
+.nav-link {
+	display: flex;
+}
+.nav-logo {
+	display: flex;
+}
